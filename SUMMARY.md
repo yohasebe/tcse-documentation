@@ -27,3 +27,7 @@
 * [Switch to expanded segment mode](obtaining-information-about-talks/switch-to-expanded-segment-mode.md)
 * [Check syntactic information](obtaining-information-about-talks/check-syntactic-information.md)
 
+## Playing Video
+
+* [Play a segment of a talk](playing-video/play-a-segment-of-a-talk.md)
+* [Show translation on video](playing-video/show-translation-on-video.md)
