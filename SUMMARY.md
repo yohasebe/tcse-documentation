@@ -23,4 +23,5 @@
 * [Show keywords of a talk](obtaining-information-about-talks/show-keywords-of-a-talk.md)
 * [Show transcripts in full-length](obtaining-information-about-talks/show-transcripts-in-full-length.md)
 * [Check location of a segment](obtaining-information-about-talks/check-location-of-a-segment.md)
+* [Switch to expanded segment mode](obtaining-information-about-talks/switch-to-expanded-segment-mode.md)
 
