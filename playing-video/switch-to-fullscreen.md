@@ -6,7 +6,7 @@ Click on `fullscreen` icon or press `ESC` key while playing video will switch fr
 
 **Normal viewing mode**
 
-![Normal mode](https://gyazo.com/2a6e17ace7f11163af00e965b3daf426.png)
+![Normal mode](https://gyazo.com/2a6e17ace7f11163af00e965b3daf426.jpg)
 
 **Fullscreen viewing mode**
 
