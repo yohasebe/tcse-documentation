@@ -1,6 +1,7 @@
 # Table of contents
 
 * [TCSE Documentation](README.md)
+* [Table of contents](SUMMARY.md)
 
 ## Searching for Words
 
