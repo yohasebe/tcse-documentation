@@ -6,5 +6,5 @@ Set `Translation` language to the language of your choice before making a search
 
 The translated text will appear next to the original transcript in English
 
-![Sample results](https://gyazo.com/2a6e17ace7f11163af00e965b3daf426.png)
+![Sample results](https://gyazo.com/2a6e17ace7f11163af00e965b3daf426)
 
