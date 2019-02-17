@@ -22,4 +22,5 @@
 * [Find basic information about a talk](obtaining-information-about-talks/find-basic-information-about-a-talk.md)
 * [Show keywords of a talk](obtaining-information-about-talks/show-keywords-of-a-talk.md)
 * [Show transcripts in full-length](obtaining-information-about-talks/show-transcripts-in-full-length.md)
+* [Check location of a segment](obtaining-information-about-talks/check-location-of-a-segment.md)
 
