@@ -31,3 +31,4 @@
 
 * [Play a segment of a talk](playing-video/play-a-segment-of-a-talk.md)
 * [Show translation on video](playing-video/show-translation-on-video.md)
+* [Switch to fullscreen](playing-video/switch-to-fullscreen.md)
