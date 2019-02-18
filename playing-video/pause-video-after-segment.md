@@ -1,4 +1,4 @@
-# Pause video after playing segment
+# Pause video after segment
 
 Check `Stop automatically` before making a search
 

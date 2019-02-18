@@ -10,5 +10,3 @@ To search in translated text of titles, speaker names, descriptions, and keyword
 
 ![Sample results](https://gyazo.com/7e404337b5bf9d9919b26956d3c3e10e.png)
 
-
-

@@ -1,4 +1,4 @@
-# Play a segment from a time point 10 seconds earlier
+# Start video 10 seconds earlier
 
 Check `Play video 10 seconds earlier` before making a search
 

@@ -7,5 +7,3 @@
 
 ![Sample results](https://gyazo.com/5f66db7dd4583150b419d478ae6d5105.png)
 
-
-
