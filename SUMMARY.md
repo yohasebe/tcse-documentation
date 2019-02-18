@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 * [Table of contents](SUMMARY.md)
-* [Frequently asked questions(FAQ.md)
+* [Frequently asked questions](FAQ.md)
 
 ## Searching for Words
 
