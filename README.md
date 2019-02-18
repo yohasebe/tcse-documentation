@@ -1,6 +1,4 @@
-# About
-
-![](https://yohasebe.com/tcse/images/logo.png)
+<img src="https://yohasebe.com/tcse/images/logo.png" width="600px" />
 
 ## About
 
