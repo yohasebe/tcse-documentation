@@ -33,3 +33,4 @@
 * [Show translation on video](playing-video/show-translation-on-video.md)
 * [Switch to fullscreen](playing-video/switch-to-fullscreen.md)
 * [Play a randomly selected talk](playing-video/play-a-randomly-selected-talk.md);
+* [Player functions and shortcut keys](playing-video/player-functions-and-shortcut-keys.md);
