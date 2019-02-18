@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [About](README.md)
 * [Table of contents](SUMMARY.md)
 * [Frequently asked questions](FAQ.md)
 
