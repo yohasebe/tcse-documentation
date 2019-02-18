@@ -5,9 +5,9 @@
 3. Check `Advanced Search`
 4. Click on `SEARCH`
 
-![Input Panel](https://gyazo.com/488397afd0180472b02db96d42a4e675.png)
+![Input Panel](images/07.png)
 
-![Sample Results](https://gyazo.com/c71292d889497d0a0c7fb95e9446410d.png)
+![Sample Results](images/08.png)
 
 
 

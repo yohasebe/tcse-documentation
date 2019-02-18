@@ -5,7 +5,7 @@
 3. Set `Search Target` to `Translation`
 4. Click on `SEARCH`
 
-![Input Panel](https://gyazo.com/c99a16cddb7e289323095dc4534af29c.png)
+![Input Panel](images/05.png)
 
-![Sample Results](https://gyazo.com/7c06c80f357b6c68cdf39623bd00f1da.png)
+![Sample Results](images/06.png)
 
