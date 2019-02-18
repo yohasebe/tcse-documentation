@@ -12,7 +12,7 @@ TCSE uses data provided by TED under the Creative Commons BY-NC-ND license.
 
 TCSE is made available free for non-commercial educational and scientific use, but please use this system at your own risk. All materials and information are provided "as is," with no warranties or guarantees whatsoever.
 
-TCSE is created by Yoichiro Hasebe at Doshisha University, Kyoto, Japan.
+TCSE is created by [Yoichiro Hasebe](https://yohasebe.com) (yohasebe@gmail.com) at Doshisha University, Kyoto, Japan.
 
 ## How frequently is TCSE database updated?
 
