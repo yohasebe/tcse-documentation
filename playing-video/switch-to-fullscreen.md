@@ -6,7 +6,7 @@ Click on `fullscreen` icon or press `ESC` key while playing video will switch fr
 
 **Normal viewing mode**
 
-![Normal mode](images/06.png)
+![Normal mode](images/06.jpg)
 
 **Fullscreen viewing mode**
 
