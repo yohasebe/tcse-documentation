@@ -17,7 +17,7 @@
 #### Examples
 
 | Example                              | Possible Matches                                                                              |
-| :---                                 | :---                                                                                          |
+|:-------------------------------------|:----------------------------------------------------------------------------------------------|
 | `[excite]`                           | _excite, excites, excited, exciting_                                                          |
 | `{n}`                                | nouns of any kind \(except for pronouns\)                                                     |
 | `{v}`                                | verbs of any kind                                                                             |
