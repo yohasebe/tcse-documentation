@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Table of contents](SUMMARY.md)
+* [Frequently asked questions(FAQ.md)
 
 ## Searching for Words
 
@@ -43,5 +44,8 @@
 
 * [Get unique URL of a segment](tcse-for-english-learning/get-unique-url-of-a-segment.md)
 * [Change play speed](tcse-for-english-learning/change-play-speed.md)
+* [Using pause-and-check](tcse-for-english-learning/using-pause-and-check.md)
 * [TCSE on Oculus](tcse-for-english-learning/TCSE-on-oculus.md)
+* [N-grams](tcse-for-english-learning/n-grams.md)
+* [Constructions](tcse-for-english-learning/constructions.md)
 
