@@ -1,6 +1,6 @@
 ![TCSE](https://yohasebe.com/tcse/images/logo.png)
 
-# About
+## About
 
 This is a site for documenting tips and recipes for using [TED Corpus Search Engine](https://yohasebe.com/tcse).
 
