@@ -36,3 +36,11 @@
 * [Player functions and shortcut keys](playing-video/player-functions-and-shortcut-keys.md)
 * [Pause video after segment](playing-video/pause-video-after-segment.md)
 * [Start video 10 seconds earlier](playing-video/start-video-earlier.md)
+* [Fine-tune sync between video and audio](playing-video/fine-tune-sync.md)
+* [Play video on mobile devices](playing-video/play-video-on-mobile-devices.md)
+
+## Using TCSE for Language Learning and Education
+
+* [Get unique URL of a segment](tcse-for-english-learning/get-unique-url-of-a-segment.md)
+* []()
+
