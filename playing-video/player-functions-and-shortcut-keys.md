@@ -2,7 +2,7 @@
 
 TCSE's video player has keyboard shortcut keys
 
-#[Player Controls](https://gyazo.com/7716e9323eefc6f799cb4c289eafede6.png)
+![Player Controls](https://gyazo.com/7716e9323eefc6f799cb4c289eafede6.png)
 
 **From Left to Right**
 
