@@ -42,4 +42,6 @@
 ## Using TCSE for Language Learning and Education
 
 * [Get unique URL of a segment](tcse-for-english-learning/get-unique-url-of-a-segment.md)
+* [Change play speed](tcse-for-english-learning/change-play-speed.md)
+* [TCSE on Oculus](tcse-for-english-learning/TCSE-on-oculus.md)
 

@@ -1,4 +1,4 @@
-![TCSE](https://yohasebe.com/tcse/images/logo.png)
+![](https://yohasebe.com/tcse/images/logo.png)
 
 ## About
 
