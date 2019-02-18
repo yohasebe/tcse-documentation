@@ -19,5 +19,5 @@ TCSE's video player has keyboard shortcut keys
 | `FONT-SIZE S`     | `S`            | Show transcript in small-sized font                            |
 | `FONT-SIZE M`     | `M`            | Show transcript in medium-sized font                           |
 | `FONT-SIZE L`     | `L`            | Show transcript in large-sized font                            |
-| `FULLSCREEN`      | `ESC`          | Start or finish fullscreen viewing mode                        |
+| `FULLSCREEN`      | `ESC`          | Toggle fullscreen and normal viewing modes                     |
 

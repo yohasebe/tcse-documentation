@@ -1,6 +1,6 @@
 # Table of contents
 
-* [TCSE Documentation](README.md)
+* [About](README.md)
 * [Table of contents](SUMMARY.md)
 
 ## Searching for Words
@@ -32,5 +32,7 @@
 * [Play a segment of a talk](playing-video/play-a-segment-of-a-talk.md)
 * [Show translation on video](playing-video/show-translation-on-video.md)
 * [Switch to fullscreen](playing-video/switch-to-fullscreen.md)
-* [Play a randomly selected talk](playing-video/play-a-randomly-selected-talk.md);
-* [Player functions and shortcut keys](playing-video/player-functions-and-shortcut-keys.md);
+* [Play a randomly selected talk](playing-video/play-a-randomly-selected-talk.md)
+* [Player functions and shortcut keys](playing-video/player-functions-and-shortcut-keys.md)
+* [Pause video after segment](playing-video/pause-video-after-segment.md)
+* [Start video 10 seconds earlier](playing-video/start-video-earlier.md)
