@@ -1,4 +1,4 @@
-<img src='https://yohasebe.com/tcse/images/logo.png' style='max-size:600px;'/>
+<img src='https://yohasebe.com/tcse/images/logo.png' style='max-width:600px;'/>
 
 ## About
 
