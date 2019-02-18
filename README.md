@@ -10,6 +10,8 @@ TCSE and this tutorial page are developed and maintained by [Yoichiro Hasebe](ht
 
 [Here](https://i.gyazo.com/18de804e350792e0f0e7a4521b627c33.mp4) is a little showcase video of what TCSE offers
 
+-----
+
 - Read this document on [GitBook](https://tcse.gitbook.io)
 - Go to [table of contents](SUMMARY.md)
 
