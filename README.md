@@ -1,4 +1,4 @@
-<img src="https://yohasebe.com/tcse/images/logo.png" width="600px" />
+<img src="images/tcse-logo.png" width="600px" />
 
 This is a site for documenting tips and recipes for using [TED Corpus Search Engine](https://yohasebe.com/tcse).
 
