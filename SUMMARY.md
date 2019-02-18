@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [Home](README.md)
 * [Table of contents](SUMMARY.md)
 
 ## Searching for Words
